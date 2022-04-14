@@ -1,6 +1,5 @@
 import QRCode from "./components/qrCode";
 import ldlogo from "./ld-light.png";
-import himms from "./himms.png";
 import toggle from "./toggle_thumbsup.png";
 import "./App.css";
 import { useFlags } from "launchdarkly-react-client-sdk";

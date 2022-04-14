@@ -6,6 +6,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// client sdk key
 (async () => {
   const LDProvider = await asyncWithLDProvider({
     clientSideID: '6225a8c0ef445314cbf887d9',
