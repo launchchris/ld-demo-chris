@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 // client sdk key
 (async () => {
   const LDProvider = await asyncWithLDProvider({
-    clientSideID: '6225a8c0ef445314cbf887d9',
+    clientSideID: '6357f4362a1c6e12176bfb59',
   });
 
 ReactDOM.render(
